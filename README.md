@@ -17,5 +17,9 @@
 
 ### clustering is one of the types of classification problem.
 
+### logistic regression is one of the types of classicication problem.
+
+
+
 
 
